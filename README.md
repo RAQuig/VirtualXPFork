@@ -60,3 +60,7 @@ https://github.com/nepx/halfix
 ## Disclaimer
 
 The Windows XP minified image is provided for educational purposes ONLY. This demo is not affiliated with or endorsed by their respective copyright holders.
+
+## Addition by RAQuig
+
+This version by RAQuig adds Dolphin Emulator (https://dolphin-emu.org/) version 4 in x86 to the xp install
